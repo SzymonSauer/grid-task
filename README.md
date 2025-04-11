@@ -17,7 +17,7 @@ Project is created with:
 * CSS3
 
 ## Screenshots
-![Example screenshot](./img/screen.jpg)
+![Example screenshot](./img/screen.JPG)
 
 
 ## Setup
