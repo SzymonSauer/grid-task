@@ -21,7 +21,7 @@ Project is created with:
 
 
 ## Setup
-You can see this project on-line using link: 
+You can see this project on-line using link: https://szymonsauer.github.io/grid-task/
 To run this project locally download the code and run in the Visual Studio Code program. 
 
 ## Inspiration
